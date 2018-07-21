@@ -1,6 +1,6 @@
 # nodejs-multi-version
 
-[https://www.facebook.com/JavaScript-Thailand-1611235618987819/](https://www.facebook.com/JavaScript-Thailand-1611235618987819/)
+[https://www.facebook.com/JavaScriptThailand/](https://www.facebook.com/JavaScriptThailand/)
 
 Run the following commands one by one:
 
